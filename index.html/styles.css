@@ -1,0 +1,40 @@
+p {
+    font-size: 60px;
+    color:black;
+    text-align:justify;
+
+}
+
+.titulo{ 
+    font-size: 200px;
+    text-align: center;
+    color:darkmagenta;
+}
+
+.descripcion {
+    font-size: 150px;
+    color: black;
+    text-align: center;
+}
+
+.img{
+    display: block ;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+}
+.sublista{
+    font-size: 60px;
+    color:darkmagenta;
+
+}
+
+.lista{
+    font-size: 60px;
+
+}
+.colorbody {
+    background-color: #ffe0e9;
+
+}
